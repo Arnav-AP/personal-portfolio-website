@@ -10,12 +10,6 @@ _A modern, multi-page portfolio website showcasing projects, achievements, and s
 
 ---
 
-## 🚀 Live Demo
-
-[View Live Site](https://your-github-username.github.io/your-repo-name) <!-- Replace with actual link after deployment -->
-
----
-
 ## Features
 
 - Multi-page static site: `home.html`, `projects.html`, `certifications.html`

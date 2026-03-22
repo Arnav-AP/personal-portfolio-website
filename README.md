@@ -10,15 +10,9 @@ _A modern, multi-page portfolio website showcasing projects, achievements, and s
 
 ---
 
-## 🚀 Live Demo
-
-[View Live Site](https://your-github-username.github.io/your-repo-name) <!-- Replace with actual link after deployment -->
-
----
-
 ## Features
 
-- Multi-page static site: `home.html`, `projects.html`, `certifications.html`
+- Multi-page static site: `index.html`, `projects.html`, `certifications.html`
 - Responsive navbar with accent branding and navigation
 - Hero section with personal introduction
 - Project showcase: card-based layout for projects with GitHub links
@@ -57,7 +51,7 @@ _A modern, multi-page portfolio website showcasing projects, achievements, and s
 
 ```
 .
-├── home.html
+├── index.html
 ├── projects.html
 ├── certifications.html
 ├── styles.css
@@ -79,10 +73,10 @@ _A modern, multi-page portfolio website showcasing projects, achievements, and s
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-github-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Arnav-AP/Personal-Portfolio-Website.git
+   cd Personal-Portfolio-Website
    ```
-2. **Open `home.html` in your browser.**
+2. **Open `index.html` in your browser.**
    - No build step or server required (fully static site).
 
 ---
@@ -93,14 +87,14 @@ _A modern, multi-page portfolio website showcasing projects, achievements, and s
 2. Go to **Settings > Pages** in your repo.
 3. Set the source branch to `main` (or `master`) and root directory (`/`).
 4. Save and wait for GitHub Pages to deploy.
-5. Access your site at `https://your-github-username.github.io/your-repo-name/`.
+5. Access your site at `https://Arnav-AP.github.io/Personal-Portfolio-Website/`.
 
 ---
 
 ## 🛠 Customization
 
 - **Edit content:**  
-  - Update text, sections, and links directly in `home.html`, `projects.html`, and `certifications.html`.
+  - Update text, sections, and links directly in `index.html`, `projects.html`, and `certifications.html`.
 - **Add/Remove projects:**  
   - Edit the project cards in `projects.html`.
 - **Update achievements/certificates:**  
@@ -136,7 +130,7 @@ _A modern, multi-page portfolio website showcasing projects, achievements, and s
 
 ## 📬 Contact
 
-- **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)
+- **GitHub:** [github.com/Arnav-AP](https://github.com/Arnav-AP)
 - **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
 - **Email:** arnav_pardeshi@outlook.com
 

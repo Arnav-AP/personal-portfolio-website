@@ -73,8 +73,8 @@ _A modern, multi-page portfolio website showcasing projects, achievements, and s
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-github-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Arnav-AP/Personal-Portfolio-Website.git
+   cd Personal-Portfolio-Website
    ```
 2. **Open `home.html` in your browser.**
    - No build step or server required (fully static site).
@@ -87,7 +87,7 @@ _A modern, multi-page portfolio website showcasing projects, achievements, and s
 2. Go to **Settings > Pages** in your repo.
 3. Set the source branch to `main` (or `master`) and root directory (`/`).
 4. Save and wait for GitHub Pages to deploy.
-5. Access your site at `https://your-github-username.github.io/your-repo-name/`.
+5. Access your site at `https://Arnav-AP.github.io/Personal-Portfolio-Website/`.
 
 ---
 
@@ -130,7 +130,7 @@ _A modern, multi-page portfolio website showcasing projects, achievements, and s
 
 ## 📬 Contact
 
-- **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)
+- **GitHub:** [github.com/Arnav-AP](https://github.com/Arnav-AP)
 - **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
 - **Email:** arnav_pardeshi@outlook.com
 

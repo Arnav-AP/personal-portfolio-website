@@ -12,7 +12,7 @@ _A modern, multi-page portfolio website showcasing projects, achievements, and s
 
 ## 🚀 Live Demo
 
-[https://Arnav-AP.github.io/Personal-Portfolio-Website/](https://arnav-ap.github.io/personal-portfolio-website/)
+[[https://arnav-ap.github.io/personal-portfolio-website/](https://arnav-ap.github.io/personal-portfolio-website/)]
 
 ---
 
